@@ -1,0 +1,1 @@
+module.exports = require("npm:dev-ip@1.0.1/lib/dev-ip");

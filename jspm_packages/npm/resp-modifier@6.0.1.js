@@ -1,0 +1,1 @@
+module.exports = require("npm:resp-modifier@6.0.1/index");

@@ -1,0 +1,1 @@
+module.exports = require("npm:browser-sync-client@2.4.2/index.js");

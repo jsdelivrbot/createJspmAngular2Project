@@ -1,0 +1,1 @@
+module.exports = require("npm:server-destroy@1.0.1/index.js");

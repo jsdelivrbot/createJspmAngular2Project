@@ -1,0 +1,1 @@
+module.exports = require("npm:weinre@2.0.0-pre-I0Z7U9OV/lib/weinre");

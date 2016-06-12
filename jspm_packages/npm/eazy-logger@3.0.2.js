@@ -1,0 +1,1 @@
+module.exports = require("npm:eazy-logger@3.0.2/index.js");

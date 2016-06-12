@@ -1,0 +1,1 @@
+module.exports = require("npm:connect-history-api-fallback@1.2.0/lib/index.js");

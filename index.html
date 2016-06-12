@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Demo jspm angular2 App</title>
+        <script src="https://cdn.firebase.com/js/client/2.4.0/firebase.js"></script>
+
+        <!-- systemJS loader and config -->
+        <script src="jspm_packages/system.js"></script>
+        <script src="config.js"></script>
+    </head>
+    <body>
+        <!-- our angular2 component -->
+        <myapp-test>
+            Loading...
+        </myapp-test>
+
+        <!-- import and run our app -->
+        <script>
+            System.import ('src/boot.js');
+        </script>
+    </body>
+</html>

@@ -1,0 +1,1 @@
+module.exports = require("npm:pkg-conf@1.1.3/index");

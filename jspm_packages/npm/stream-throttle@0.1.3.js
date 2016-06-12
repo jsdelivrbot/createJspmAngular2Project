@@ -1,0 +1,1 @@
+module.exports = require("npm:stream-throttle@0.1.3/index.js");

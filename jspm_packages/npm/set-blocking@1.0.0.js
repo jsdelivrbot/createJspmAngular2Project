@@ -1,0 +1,1 @@
+module.exports = require("npm:set-blocking@1.0.0/index.js");

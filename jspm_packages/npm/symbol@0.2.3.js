@@ -1,0 +1,1 @@
+module.exports = require("npm:symbol@0.2.3/index.js");

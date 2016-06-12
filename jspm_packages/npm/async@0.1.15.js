@@ -1,0 +1,1 @@
+module.exports = require("npm:async@0.1.15/index");

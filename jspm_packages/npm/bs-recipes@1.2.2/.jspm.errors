@@ -1,0 +1,36 @@
+MultipleErrors: /Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.babel/src/actions.js:1:1: Unexpected reserved word export
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.babel/src/actions.js:1:8: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.babel/src/actions.js:5:1: Unexpected reserved word export
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.babel/src/actions.js:5:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.babel/src/main.js:1:1: Unexpected reserved word import
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.babel/src/main.js:1:8: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.babel/src/main.js:1:24: Semi-colon expected
+
+MultipleErrors: /Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-hot-loader/app/js/main.js:1:1: Unexpected reserved word import
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-hot-loader/app/js/main.js:1:8: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-hot-loader/app/js/main.js:1:14: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-hot-loader/app/js/main.js:1:19: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-hot-loader/app/js/main.js:4:1: Unexpected reserved word import
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-hot-loader/app/js/main.js:4:8: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-hot-loader/app/js/main.js:4:19: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-hot-loader/app/js/main.js:4:24: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-hot-loader/app/js/main.js:6:14: Unexpected token <
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-hot-loader/app/js/main.js:6:15: Unexpected token HelloWorld
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-hot-loader/app/js/main.js:6:27: Unexpected token >
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-hot-loader/app/js/main.js:6:67: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-hot-loader/app/js/main.js:6:67: Unexpected token )
+
+MultipleErrors: /Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-transform-hmr/app/js/main.js:1:1: Unexpected reserved word import
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-transform-hmr/app/js/main.js:1:8: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-transform-hmr/app/js/main.js:1:14: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-transform-hmr/app/js/main.js:1:19: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-transform-hmr/app/js/main.js:4:1: Unexpected reserved word import
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-transform-hmr/app/js/main.js:4:8: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-transform-hmr/app/js/main.js:4:19: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-transform-hmr/app/js/main.js:4:24: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-transform-hmr/app/js/main.js:6:14: Unexpected token <
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-transform-hmr/app/js/main.js:6:15: Unexpected token HelloWorld
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-transform-hmr/app/js/main.js:6:27: Unexpected token >
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-transform-hmr/app/js/main.js:6:67: Semi-colon expected
+/Users/xiaoqiangcao/.jspm/packages/npm/bs-recipes@1.2.2/recipes/webpack.react-transform-hmr/app/js/main.js:6:67: Unexpected token )

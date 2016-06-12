@@ -1,0 +1,1 @@
+module.exports = require("npm:easy-extender@2.3.2/index.js");
